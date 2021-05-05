@@ -1,0 +1,100 @@
+   57  make
+   58  sudo apt install make
+   59  make
+   60  gcc --version
+   61  sudo apt install gcc
+   62  gcc --version
+   63  sudo apt update
+   64  gcc --version
+   65  sudo apt install gcc
+   66  gcc --version
+   67  make
+   68  dir
+   69  average
+   70  rm -f average
+   71  vim Makefile
+   72  make
+   73  dir
+   74  run_average
+   75  ./run_average
+   76  vim main.c
+   77  less main.c
+   78  git status
+   79  cd ..
+   80  git status
+   81  cd assignment_1
+   82  dir
+   83  git add Makefile average.c average.h main.c
+   84  git status
+   85  git commit
+   86  git status
+   87  git diff
+   88  git branch -M main
+   89  git push -u origin main
+   90  ls -la
+   91  vim main.c
+   92  less main.c
+   93  git commit
+   94  git status
+   95  git add main.c
+   96  git status
+   97  gti commit
+   98  git commit
+   99  vim Makefile
+  100  git status
+  101  git add Makefile
+  102  git status
+  103  git commit
+  104  make
+  105  vim Makefile
+  106  make
+  107  vim Makefile
+  108  make
+  109  vim main.c
+  110  vim Makefile
+  111  make
+  112  ./run_average 
+  113  git commit
+  114  git push -u origin main
+  115  history
+  116  tail -n 100 | history
+  117  tail -n 100 logfile | history
+  118  tail -n 2 logfile | history
+  119  history | tail -n 2
+  120  history | tail -n 100 > history.txt
+  121  less history.txt
+  122  git status
+  123  git diff
+  124  git status
+  125  git add Makefile main.c
+  126  git commit
+  127  git push -u origin main
+  128  history | tail -n 100 > history.txt
+  129  less history.txt
+  130  history
+  131  history > history.txt
+  132  less history.txt
+  133  rm history.txt
+  134  history > history.txt
+  135  less history.txt
+  136  history
+  137  echo "text" > history.txt
+  138  less history.txt
+  139  history | tail -n 2 > history.txt
+  140  less history.txt
+  141  history | tail -n 75 > history.txt
+  142  less history.txt
+  143  history | tail -75 > history.txt
+  144  less history.txt
+  145  history | tail -200 > history.txt
+  146  less history.txt
+  147  history | tail -5 > history.txt
+  148  less history.txt
+  149  history | tail -10 > history.txt
+  150  less history.txt
+  151  history | tail -50 > history.txt
+  152  less history.txt
+  153  vim history.txt
+  154  history | tail -75 > history.txt
+  155  vim history.txt
+  156  history | tail -100 > history.txt
