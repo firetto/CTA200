@@ -1,3 +1,5 @@
+# Makefile inspired by https://www.cs.colby.edu/maxwell/courses/tutorials/maketutor/y
+
 CC=gcc
 CFLAGS=-I.
 

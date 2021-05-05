@@ -2,6 +2,8 @@
 #include "average.h"
 
 
+# Makefile layout was borrowed from https://www.cs.colby.edu/maxwell/courses/tutorials/maketutor/
+
 int main() {
     double arr[] = {1.0, 2.0, 3.0, 4.0};
 
