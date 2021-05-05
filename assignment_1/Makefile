@@ -1,4 +1,4 @@
-# Makefile inspired by https://www.cs.colby.edu/maxwell/courses/tutorials/maketutor/y
+# Makefile layout inspired by https://www.cs.colby.edu/maxwell/courses/tutorials/maketutor/
 
 CC=gcc
 CFLAGS=-I.
